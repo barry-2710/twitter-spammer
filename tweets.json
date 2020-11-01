@@ -1,0 +1,19 @@
+{
+    "tweets": [
+        {
+            "id":"1",
+            "username":"Sheldon",
+            "tweet":"spook without another is like sambo without life"
+        },
+        {
+            "id":"2",
+            "username":"George",
+            "tweet":"God can be here you everywhere, you nigger"
+        },
+        {
+            "id":"3",
+            "username":"Missy",
+            "tweet":"spook without another is like sambo without mongrel"
+        }
+    ]
+}
